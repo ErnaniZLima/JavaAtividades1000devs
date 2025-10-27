@@ -1,3 +1,4 @@
+package EstruturaDeDecisao;
 
 import  java.util.Scanner;
 
