@@ -3,7 +3,8 @@ package AtividadeFunctions;
 public class Atividade01 {
     public static void main(String[] args) throws Exception{
         System.out.println(somar(8, 1.8));
-
+        System.out.println('a');
+        somar(4, 5);
     }
 
     public static double somar(double kg, double preco) {
