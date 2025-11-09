@@ -74,7 +74,7 @@ public class Forca {
 
                 // se a letra já foi chutada, avisa e continua
                 if (chute.contains(letraChutada)) {
-                    System.out.println("⚠️ Você já chutou essa letra!");
+                    System.out.println("Você já chutou essa letra!");
                     Thread.sleep(1000); // pausa 1 segundo
                     continue; // volta ao início do while
                 }
